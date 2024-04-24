@@ -2,5 +2,5 @@
 Uma assistente de voz simples (por enquanto)
 
 
-para instalar as bibliotecas rode o seguinte 
-'pip install -r .\requirements.txt'
+para instalar as bibliotecas rode o seguinte comando no terminal:
+"pip install -r .\requirements.txt"
