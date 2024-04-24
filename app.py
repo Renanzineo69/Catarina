@@ -191,7 +191,7 @@ def open_divulgation_link():
     google_link = "https://github.com/Renanzineo69/Catarina"  # Link do Google
     try:
         webbrowser.open(google_link)
-        speak("Executando modo Matheus")
+        speak("Executando modo divulgação")
     except Exception as e:
         speak("Não foi possível abrir o link no Google.")
 
