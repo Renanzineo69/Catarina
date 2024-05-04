@@ -46,7 +46,7 @@ A biblioteca *speech recognition* coleta os dados de áudio do microfone e proce
 
 **O que este objeto gera, após a execução?**
 
-- Respostas no formato de áudio e execução de tarefas simples.
+- Respostas no formato de áudio, de texto e execução de tarefas simples.
 
 # 3.0 Tecnologias e Requisitos
 
@@ -56,14 +56,16 @@ A biblioteca *speech recognition* coleta os dados de áudio do microfone e proce
 2. SpeechRecognition 3.10.3
 3. geocoder 1.38.1
 4. PyAudio 1.0.14
-5. `C:\Users\joaog\OneDrive\Área de Trabalho\alexa da shopee\Catarina__\Catarina\requirements.txt`
+5. pyttsx3 2.90
+6. python-dotenv 1.0.1
+7. psutil 5.9.8
 
 # 4.0 Processamento
 
 **Qual a periodicidade deste objeto?**
 
 - **Execução: Manual**
-- **Agendamento:** N]ao há agendamento.
+- **Agendamento:** Não há agendamento.
 
 # 5.0 Autoria e Histórico de Revisões
 
